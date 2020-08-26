@@ -1,0 +1,2 @@
+export DOCKER_UID=1001
+export DOCKER_GID=1001
